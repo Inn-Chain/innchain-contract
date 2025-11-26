@@ -201,9 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="left">
 
-**Built with ❤️ for decentralized hospitality**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/innchain?style=social)](https://github.com/yourusername/innchain/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+**Built with ❤️ Inn Chain**
 
 </div>
