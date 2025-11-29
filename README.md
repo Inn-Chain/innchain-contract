@@ -172,15 +172,6 @@ forge verify-contract \
 2. Before check-in, customer/hotel cancels
 3. Full refund (room + deposit) to customer
 
-## 🎯 Supported Networks
-
-- Ethereum Mainnet
-- Polygon
-- Arbitrum
-- Optimism
-- Base
-- Any EVM-compatible chain with stablecoin support
-
 ## 🔮 Roadmap
 
 - [ ] Oracle integration for real-time room availability
